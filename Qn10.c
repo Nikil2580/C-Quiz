@@ -3,7 +3,6 @@
 void main()
 {
     double k = 0;
-    for (k = 0.0; k < 3.0; k++)
-        ;
-    printf("%lf", k);
+    for (k = 0.0; k < 3.0; k++);
+    printf("%lf", k);  // Ans: 3.000000
 }
