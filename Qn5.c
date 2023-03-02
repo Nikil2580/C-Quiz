@@ -4,7 +4,7 @@ int extern i;
 
 void main()
 {
-    printf("%d", i);
+    printf("%d", i);   // Ans: 10
 }
 
 int i = 10;
