@@ -3,6 +3,7 @@
 void fun(int *p)
 {
     static int q = 10;
+    p = &q;
 }
 
 void main()
