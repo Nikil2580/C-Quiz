@@ -1,3 +1,5 @@
+package Java;
+
 public class EqualTo {
     public static void main(String[] args) {
         String name = "Anil";

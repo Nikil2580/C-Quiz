@@ -1,3 +1,5 @@
+package Java;
+
 public class StaticBlock {
     public static void main(String[] args) {
         System.out.println("CTS");
