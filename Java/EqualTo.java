@@ -3,9 +3,9 @@ public class EqualTo {
         String name = "Anil";
         String anotherName = new String("Anil");
 
-        System.out.println(name == anotherName);
+        System.out.println(name == anotherName);        // false
 
-        System.out.println(name.equals(anotherName));
+        System.out.println(name.equals(anotherName));   // true
 
     }
 }
