@@ -1,4 +1,3 @@
-package Java;
 
 public class StaticBlock {
     public static void main(String[] args) {
@@ -10,5 +9,7 @@ public class StaticBlock {
     }
 }
 
-// JVM loads the main class and first executes the static block and then executes the main method
-// Static block can be used to open the database or file before the main method executes
+// JVM loads the main class and first executes the static block and then
+// executes the main method
+// Static block can be used to open the database or file before the main method
+// executes
